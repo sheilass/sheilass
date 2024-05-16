@@ -5,8 +5,8 @@
 ## 🙋🏽‍♀️ About Me
 
 <div align="left">
-🔭 FullStack Developer sharing projects and learnings in tech
-👩🏽‍🎓 Studied Technology in Internet Systems and Specialization in Networks and Distributed Computing, both at Federal Institute of Mato Grosso (IFMT), Brazil
+🔭 FullStack Developer sharing projects and learnings in tech <br/>
+👩🏽‍🎓 Studied Technology in Internet Systems and Specialization in Networks and Distributed Computing, both at Federal Institute of Mato Grosso (IFMT), Brazil<br/>
 🌷 Improving learning in C#, Java, PHP and Angular <br/>
 🤩 Learning about React and React Native <br/>
 💬 Ask me about anything <a href="https://github.com/sheilass/sheilass/issues">[here]</a> <br/>
